@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4+S1dTI6dBEqRzJls85U5RJRa62w3fiuE8s4qoPNwag=",
+  "Source": "SmartInventoryApp",
+  "BasePath": "_content/SmartInventoryApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
